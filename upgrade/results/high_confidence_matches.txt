@@ -1,0 +1,7 @@
+High Confidence Matches Report (75%+ Similarity)
+=============================================
+
+Match #1: 100% Confidence
+  Query: frame_000012_face_0.png (Face #1)
+  Found in: frame_000012_face_0.png (Face #1)
+

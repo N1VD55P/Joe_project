@@ -1,0 +1,11 @@
+Face Matching Summary Report
+==========================
+
+Query Image: frame_000012_face_0.png
+  Face #1:
+    Found 2 matches:
+    1. frame_000012_face_0.png (Face #1): Similarity = 100% [HIGH CONFIDENCE]
+    2. frame_000012_face_1.png (Face #1): Similarity = 44%
+
+--------------------------------------------------
+
