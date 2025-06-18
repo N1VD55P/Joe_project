@@ -3,4 +3,4 @@ This project is a prototype of a DeepFake Detection Alert System. The system all
 
 If a match is found, the system triggers an alert, notifying the user of a potential threat and providing visual evidence as proof detection
 
-HUGE shoutout to https://github.com/senhan07/ for there https://github.com/senhan07/CropSense-Face-Detection.git repo whihc help me alot to buid it  
+HUGE shoutout to https://github.com/senhan07/ for there https://github.com/senhan07/CropSense-Face-Detection.git repo which helped me alot to buid it  
